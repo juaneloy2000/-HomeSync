@@ -62,11 +62,11 @@ Diseñada y desarrollada como proyecto personal, probada en **iPhone 16** con Ex
 
 > *Próximamente — grabaciones de demo en iPhone 16*
 
-<!-- Añade aquí tus capturas o GIFs:
-![Pantalla principal](./assets/screenshots/home.png)
-![Lista de la compra](./assets/screenshots/shopping.png)
-![Ranking de tareas](./assets/screenshots/ranking.png)
--->
+
+![Pantalla principal](./assets/Pantalla.png) 
+![Lista de la compra](./assets/Despensa.gif)
+
+
 
 ---
 
